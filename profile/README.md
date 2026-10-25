@@ -11,3 +11,5 @@ Non-ignored & archived projects. Feel free to explore.
 | Temprora     | [GitHub](https://github.com/temprora) | A temporary chat tool designed for situations like using public computers (e.g., libraries), so users don’t have to log into personal messaging accounts, and forget to logout. |
 | Keskn        | [GitHub](https://github.com/link-shrink) | A simple URL shortener inspired by Bitly. |
 | Disliko      | [GitHub](https://github.com/Disliko) | A tool that restores visibility of YouTube dislike counts, addressing the lack of this feature on the platform. |
+| Qorachoy     | [GitHub](https://github.com/qorachoy) | A tool that helps students get assignment files ready to submit. |
+| Poktil       | [GitHub](https://github.com/poktil) | A Telegram bot that automatically deletes messages with insults from group chats. |
