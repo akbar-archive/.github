@@ -6,6 +6,7 @@ Non-ignored & archived projects. Feel free to explore.
 
 | Organization | Link | Description |
 |--------------|------|-------------|
+| Oriel        | [GitHub](https://github.com/oriel-releases) | A wallpaper app that keeps your wallpapers synced across all your devices: Windows, Linux, Mac, Android and browser extensions. |
 | Poktil       | [GitHub](https://github.com/poktil) | A Telegram bot that automatically deletes messages with insults from group chats. |
 | Qorachoy     | [GitHub](https://github.com/qorachoy) | A tool that helps students get assignment files ready to submit. |
 | Authify      | [GitHub](https://github.com/aj-authify) | An open-source OTP API that is customizable and easy to integrate. |
